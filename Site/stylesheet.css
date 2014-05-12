@@ -1,0 +1,89 @@
+body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: white;
+	font-family: 'Cambo', serif;
+}
+
+header, footer{
+	background-color: #e6bebe;
+	font-family: 'Germania One',cursive;
+	font-size: 200%;
+	color: white;
+	z-index:300;
+
+}
+header{
+	padding: 30px 0;
+}
+footer{
+	height: 50px;
+	
+}
+
+#logo, #logo2 {
+	color:white;
+	text-decoration:none;
+	margin-left:3%;
+	position:absolute;
+}
+#logo{
+	top: 2%;
+}
+
+
+header ul {
+	margin: 0;
+	padding: 0;
+	float:right;
+	z-index: 300;
+
+}
+
+header ul li {	
+
+	margin:0;
+	padding:0;
+	list-style: none;
+	float:right;
+	height:100%;
+	width:20%;
+}
+
+header ul li a {
+	display: block;	
+    margin-top: -20px;
+    padding:4px 10px;
+	color: white;
+	text-align: center;
+	text-decoration: none}
+
+header ul div {
+	position: absolute;
+	visibility: hidden;
+	margin: 0;
+	padding: 0;
+	width:7%;
+	text-align:center;
+}
+
+header ul div a {	
+	position: relative;
+	display: block;
+	margin: 0;
+	padding: 5px 10px;
+	width: auto;
+	white-space: nowrap;
+	text-decoration: none;
+	background: #e6bebe;
+	color: white;
+	font-size: 45%;
+}
+
+header ul div a:hover {	
+	background: #49A3FF;
+	color: #FFF
+}
+

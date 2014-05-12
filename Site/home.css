@@ -1,0 +1,15 @@
+h1,p {
+	font-family: 'Tangerine', serif;
+	color: #e6bebe;
+	margin-left: 13%;
+}
+h1 {
+	font-size: 300%;
+	border-bottom: 1px solid #e6bebe;
+	width: 73%;	
+}
+p {
+	font-family: 'Cambo', serif;
+	margin-bottom: 4%;
+}
+

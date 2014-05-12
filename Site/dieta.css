@@ -1,0 +1,36 @@
+#maincontent {
+	margin-left: auto;
+	margin-right:auto;
+	width: 70%;
+	margin-top:6%;
+	margin-bottom:13%;
+}
+
+h2 {
+	color:#e6bebe;
+	border-bottom:1px solid #e6bebe;
+	font-size:10%;
+
+}
+
+section {
+	width: 80%;
+	margin-bottom:10%;
+}
+
+p {
+	text-indent: 5%;
+}
+
+.centrat {
+	text-align: center;
+	color: #e6bebe;
+	font-size: 200%;
+}
+
+.centrat:hover{
+	-moz-transform: rotate(20deg);
+}
+.tabs li {
+	color: #e6bebe;
+}

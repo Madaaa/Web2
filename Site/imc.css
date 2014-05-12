@@ -1,0 +1,35 @@
+#descrie {
+	margin-left: auto;
+	margin-right:auto;
+	margin-top:5%;
+	margin-bottom:5%;
+	text-indent: 5%;
+	width: 70%;
+}
+h1 {
+    color:#e6bebe;
+	border-bottom:1px solid #e6bebe;
+	font-size:200%;
+}
+
+ul {
+	list-style: none;
+	text-indent: 0%;
+}
+
+p:nth-child(8){
+	color: #e6bebe;
+}
+
+span {
+	font-weight:bold;
+}
+
+li {
+	margin-bottom: 2%;
+}
+
+button{
+	margin-left:10%;
+	margin-top:2%;
+}
